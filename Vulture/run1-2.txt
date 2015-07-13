@@ -1,0 +1,1153 @@
+switching
+BTC available 0.67041221
+LTC available 21.33679190
+--------------
+EZC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  9.8E-7 plus the percentage increase ( 9.95e-07 was > the maximum sell price of 9.54e-07
+Bought a total of  0 BTC worth of EZC 
+
+--------------
+CGB
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 32.96681625 for the price of 0.00030693
+Selling 32.96681625 for the price of 0.000311534
+Buying 2.58778642 for the price of 0.00030694
+Selling 2.58778642 for the price of 0.000311544
+Buying 50.00234125 for the price of 0.00030695
+Selling 50.00234125 for the price of 0.000311554
+	The total bought is greater than or equal to the set maximum to buy
+		Total Bought: 85.55694392
+		Max To Buy: 44.96049719399999833612736055
+Bought a total of  0.02618224 BTC worth of CGB 
+
+--------------
+HVC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000143 plus the percentage increase ( 1.451e-06 was > the maximum sell price of 1.37e-06
+Bought a total of  0 BTC worth of HVC 
+
+--------------
+GLYPH
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00005750 plus the percentage increase ( 5.8362e-05 was > the maximum sell price of 4.6951e-05
+Bought a total of  0 BTC worth of GLYPH 
+
+--------------
+IXC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00006799 plus the percentage increase ( 6.901e-05 was > the maximum sell price of 6.8134e-05
+Bought a total of  0 BTC worth of IXC 
+
+--------------
+MEC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00008662 plus the percentage increase ( 8.7919e-05 was > the maximum sell price of 8.6711e-05
+Bought a total of  0 BTC worth of MEC 
+
+--------------
+DOGE
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00003099 plus the percentage increase ( 3.1455e-05 was > the maximum sell price of 3.1221e-05
+Bought a total of  0 LTC worth of DOGE 
+
+--------------
+BTG
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00070009 plus the percentage increase ( 0.000710591 was > the maximum sell price of 0.00069772
+Bought a total of  0 BTC worth of BTG 
+
+--------------
+XJO
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000340 plus the percentage increase ( 3.451e-06 was > the maximum sell price of 2.838e-06
+Bought a total of  0 BTC worth of XJO 
+
+--------------
+42
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  6.42424233 plus the percentage increase ( 6.520605965 was > the maximum sell price of 6.483997422
+Bought a total of  0 BTC worth of 42 
+
+--------------
+CRYPT
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 1.00398084 for the price of 0.00030993
+Buying 7.21029896 for the price of 0.00031100
+Selling 7.21029896 for the price of 0.000315665
+	The order price of  0.00031245 plus the percentage increase ( 0.000317137 was > the maximum sell price of 0.000315906
+Bought a total of  0.00254590 BTC worth of CRYPT 
+
+--------------
+DBL
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00129985 plus the percentage increase ( 0.001319348 was > the maximum sell price of 0.00129984
+Bought a total of  0 LTC worth of DBL 
+
+--------------
+SXC
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 206.79537984 for the price of 0.00000250
+Selling 206.79537984 for the price of 2.537e-06
+Buying 329.97890098 for the price of 0.00000251
+Selling 329.97890098 for the price of 2.548e-06
+Buying 448.05968767 for the price of 0.00000252
+Selling 448.05968767 for the price of 2.558e-06
+Buying 924.00000000 for the price of 0.00000253
+Selling 924.00000000 for the price of 2.568e-06
+Buying 7753.00176440 for the price of 0.00000254
+Selling 7753.00176440 for the price of 2.578e-06
+Buying 671.00000000 for the price of 0.00000255
+Selling 671.00000000 for the price of 2.588e-06
+Buying 552.88658050 for the price of 0.00000256
+Selling 552.88658050 for the price of 2.598e-06
+Buying 46.72355231 for the price of 0.00000258
+Selling 46.72355231 for the price of 2.619e-06
+Buying 350.10000000 for the price of 0.00000260
+Selling 350.10000000 for the price of 2.639e-06
+	The order price of  0.00000261 plus the percentage increase ( 2.649e-06 was > the maximum sell price of 2.649e-06
+Bought a total of  0.02857596 BTC worth of SXC 
+
+--------------
+NEC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000443 plus the percentage increase ( 4.496e-06 was > the maximum sell price of 4.486e-06
+Bought a total of  0 BTC worth of NEC 
+
+--------------
+CAP
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 237.80679168 for the price of 0.00005378
+Selling 237.80679168 for the price of 5.4587e-05
+Buying 3.62476432 for the price of 0.00005459
+Selling 3.62476432 for the price of 5.5409e-05
+Buying 15.23093815 for the price of 0.00005521
+Selling 15.23093815 for the price of 5.6038e-05
+	The order price of  0.00005552 plus the percentage increase ( 5.6353e-05 was > the maximum sell price of 5.6086e-05
+Bought a total of  0.01378655 BTC worth of CAP 
+
+--------------
+PPC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00239709 plus the percentage increase ( 0.002433046 was > the maximum sell price of 0.002396202
+Bought a total of  0 BTC worth of PPC 
+
+--------------
+LTB
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00009820 plus the percentage increase ( 9.9673e-05 was > the maximum sell price of 9.6009e-05
+Bought a total of  0 BTC worth of LTB 
+
+--------------
+SAT2
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 830.03012765 for the price of 0.00002025
+Selling 830.03012765 for the price of 2.0554e-05
+Buying 6.38299300 for the price of 0.00002026
+Selling 6.38299300 for the price of 2.0564e-05
+Buying 130.75016784 for the price of 0.00002027
+Selling 130.75016784 for the price of 2.0574e-05
+Buying 3.22635764 for the price of 0.00002075
+Selling 3.22635764 for the price of 2.1061e-05
+Buying 6.78545600 for the price of 0.00002086
+Selling 6.78545600 for the price of 2.1173e-05
+Buying 8.64198292 for the price of 0.00002160
+Selling 8.64198292 for the price of 2.1924e-05
+	The order price of  0.00002168 plus the percentage increase ( 2.2005e-05 was > the maximum sell price of 2.1983e-05
+Bought a total of  0.01992296 BTC worth of SAT2 
+
+--------------
+RT2
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 31.31846708 for the price of 0.00040748
+Selling 31.31846708 for the price of 0.000413592
+	The total bought is greater than or equal to the set maximum to buy
+		Total Bought: 31.31846708
+		Max To Buy: 26.21524423499999902984107514
+Bought a total of  0.01272337 BTC worth of RT2 
+
+--------------
+XLB
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000771 plus the percentage increase ( 7.826e-06 was > the maximum sell price of 6.292e-06
+Bought a total of  0 BTC worth of XLB 
+
+--------------
+MN1
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00895933 plus the percentage increase ( 0.00909372 was > the maximum sell price of 0.008959018
+Bought a total of  0 BTC worth of MN1 
+
+--------------
+LTC
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 0.18753059 for the price of 0.01155556
+Selling 0.18753059 for the price of 0.011728893
+	The order price of  0.01166588 plus the percentage increase ( 0.011840868 was > the maximum sell price of 0.011760381
+Bought a total of  0.00216052 BTC worth of LTC 
+
+--------------
+SRC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00007463 plus the percentage increase ( 7.5749e-05 was > the maximum sell price of 7.4287e-05
+Bought a total of  0 BTC worth of SRC 
+
+--------------
+DMC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  3E-8 plus the percentage increase ( 3e-08 was > the maximum sell price of 2.6e-08
+Bought a total of  0 LTC worth of DMC 
+
+--------------
+NBL
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00001002 plus the percentage increase ( 1.017e-05 was > the maximum sell price of 1.0006e-05
+Bought a total of  0 BTC worth of NBL 
+
+--------------
+XC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00196072 plus the percentage increase ( 0.001990131 was > the maximum sell price of 0.001945177
+Bought a total of  0 BTC worth of XC 
+
+--------------
+NAUT
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00035000 plus the percentage increase ( 0.00035525 was > the maximum sell price of 0.000354731
+Bought a total of  0 BTC worth of NAUT 
+
+--------------
+BUK
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00013321 plus the percentage increase ( 0.000135208 was > the maximum sell price of 0.00013321
+Bought a total of  0 BTC worth of BUK 
+
+--------------
+CSC
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 290.41968203 for the price of 0.00000453
+Selling 290.41968203 for the price of 4.598e-06
+Buying 284.34249864 for the price of 0.00000462
+Selling 284.34249864 for the price of 4.689e-06
+	The order price of  0.00000474 plus the percentage increase ( 4.811e-06 was > the maximum sell price of 4.737e-06
+Bought a total of  0.00262137 BTC worth of CSC 
+
+--------------
+AMC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000134 plus the percentage increase ( 1.36e-06 was > the maximum sell price of 1.274e-06
+Bought a total of  0 BTC worth of AMC 
+
+--------------
+RYC
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 2.79987736 for the price of 0.00008346
+Selling 2.79987736 for the price of 8.4712e-05
+Buying 101.70963332 for the price of 0.00008347
+Selling 101.70963332 for the price of 8.4722e-05
+Buying 110.17338048 for the price of 0.00008362
+Selling 110.17338048 for the price of 8.4874e-05
+	The order price of  0.00009352 plus the percentage increase ( 9.4923e-05 was > the maximum sell price of 8.6811e-05
+Bought a total of  0.01788227 LTC worth of RYC 
+
+--------------
+MINT
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  6E-8 plus the percentage increase ( 6.1e-08 was > the maximum sell price of 5.3e-08
+Bought a total of  0 BTC worth of MINT 
+
+--------------
+DGC
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 446.92727685 for the price of 0.00002304
+Selling 446.92727685 for the price of 2.3386e-05
+Buying 13.07692308 for the price of 0.00002306
+Selling 13.07692308 for the price of 2.3406e-05
+Buying 0.75606484 for the price of 0.00002307
+Selling 0.75606484 for the price of 2.3416e-05
+	The order price of  0.00002331 plus the percentage increase ( 2.366e-05 was > the maximum sell price of 2.36e-05
+Bought a total of  0.01058435 BTC worth of DGC 
+
+--------------
+XPM
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 9.31021500 for the price of 0.00068173
+Selling 9.31021500 for the price of 0.000691956
+Buying 3.29319469 for the price of 0.00068174
+Buying 27.22537895 for the price of 0.00068176
+Selling 27.22537895 for the price of 0.000691986
+Buying 1.47730700 for the price of 0.00068265
+Selling 1.47730700 for the price of 0.00069289
+Buying 10.07487200 for the price of 0.00068270
+Selling 10.07487200 for the price of 0.00069294
+Buying 0.24397081 for the price of 0.00068324
+Selling 0.24397081 for the price of 0.000693489
+Buying 0.36251342 for the price of 0.00068326
+Selling 0.36251342 for the price of 0.000693509
+Buying 15.55870926 for the price of 0.00069956
+Selling 15.55870926 for the price of 0.000710053
+Buying 0.00840102 for the price of 0.00069997
+Selling 0.00840102 for the price of 0.00071047
+Buying 1.59160608 for the price of 0.00070000
+Selling 1.59160608 for the price of 0.0007105
+	The order price of  0.00070533 plus the percentage increase ( 0.00071591 was > the maximum sell price of 0.000712543
+Bought a total of  0.04731618 BTC worth of XPM 
+
+--------------
+DVC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00001132 plus the percentage increase ( 1.149e-05 was > the maximum sell price of 1.1225e-05
+Bought a total of  0 LTC worth of DVC 
+
+--------------
+DMD
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00028971 plus the percentage increase ( 0.000294056 was > the maximum sell price of 0.000276008
+Bought a total of  0 BTC worth of DMD 
+
+--------------
+RDD
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  8E-8 plus the percentage increase ( 8.1e-08 was > the maximum sell price of 8e-08
+Bought a total of  0 BTC worth of RDD 
+
+--------------
+DEM
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 892.79125350 for the price of 0.00000699
+Selling 892.79125350 for the price of 7.095e-06
+Buying 378.00000000 for the price of 0.00000700
+Selling 378.00000000 for the price of 7.105e-06
+Buying 0.61081100 for the price of 0.00000725
+Selling 0.61081100 for the price of 7.359e-06
+	The order price of  0.00000736 plus the percentage increase ( 7.47e-06 was > the maximum sell price of 7.452e-06
+Bought a total of  0.00886437 BTC worth of DEM 
+
+--------------
+HBN
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00009875 plus the percentage increase ( 0.000100231 was > the maximum sell price of 9.2742e-05
+Bought a total of  0 BTC worth of HBN 
+
+--------------
+WC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000116 plus the percentage increase ( 1.177e-06 was > the maximum sell price of 1.169e-06
+Bought a total of  0 BTC worth of WC 
+
+--------------
+IFC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000220 plus the percentage increase ( 2.233e-06 was > the maximum sell price of 2.2e-06
+Bought a total of  0 LTC worth of IFC 
+
+--------------
+XPM
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 6.35506500 for the price of 0.05819998
+Selling 6.35506500 for the price of 0.05907298
+Buying 0.24397081 for the price of 0.05819999
+Selling 0.24397081 for the price of 0.05907299
+Buying 2.44483895 for the price of 0.05820000
+Selling 2.44483895 for the price of 0.059073
+Buying 0.00065713 for the price of 0.05820001
+Selling 0.00065713 for the price of 0.05907301
+	The order price of  0.06030000 plus the percentage increase ( 0.0612045 was > the maximum sell price of 0.059708921
+Bought a total of  0.52481246 LTC worth of XPM 
+
+--------------
+DGC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00199997 plus the percentage increase ( 0.00202997 was > the maximum sell price of 0.002003231
+Bought a total of  0 LTC worth of DGC 
+
+--------------
+CLOAK
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.05229068 plus the percentage increase ( 0.05307504 was > the maximum sell price of 0.052440967
+Bought a total of  0 LTC worth of CLOAK 
+
+--------------
+VTC
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 127.99894061 for the price of 0.00056823
+Selling 127.99894061 for the price of 0.000576753
+Order cannot be less than 0.00000010
+	Total amount of funds exceeded max allowed
+Bought a total of  0.07251464 BTC worth of VTC 
+
+--------------
+YAC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000499 plus the percentage increase ( 5.065e-06 was > the maximum sell price of 4.804e-06
+Bought a total of  0 BTC worth of YAC 
+
+--------------
+BQC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000476 plus the percentage increase ( 4.831e-06 was > the maximum sell price of 4.627e-06
+Bought a total of  0 BTC worth of BQC 
+
+--------------
+FRK
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.01706400 plus the percentage increase ( 0.01731996 was > the maximum sell price of 0.015324855
+Bought a total of  0 LTC worth of FRK 
+
+--------------
+XC
+--------------
+GRABBING CURRENT ORDER INFO
+	The total bought is greater than or equal to the set maximum to buy
+		Total Bought: 0
+		Max To Buy: -27.67291211750000004911454216
+Bought a total of  0 LTC worth of XC 
+
+--------------
+FST
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00007282 plus the percentage increase ( 7.3912e-05 was > the maximum sell price of 6.8094e-05
+Bought a total of  0 LTC worth of FST 
+
+--------------
+ZET
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00350344 plus the percentage increase ( 0.003555992 was > the maximum sell price of 0.003532408
+Bought a total of  0 LTC worth of ZET 
+
+--------------
+TEK
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00047155 plus the percentage increase ( 0.000478623 was > the maximum sell price of 0.000469625
+Bought a total of  0 BTC worth of TEK 
+
+--------------
+FTC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00650473 plus the percentage increase ( 0.006602301 was > the maximum sell price of 0.006504862
+Bought a total of  0 LTC worth of FTC 
+
+--------------
+MEOW
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 1525543.35301024 for the price of 4.7E-7
+Selling 1525543.35301024 for the price of 4.77e-07
+	There was a sell wall of  7466277.19958359  at a price of  4.8E-7
+Bought a total of  0.71485436 LTC worth of MEOW 
+
+--------------
+SPT
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000315 plus the percentage increase ( 3.197e-06 was > the maximum sell price of 3.128e-06
+Bought a total of  0 BTC worth of SPT 
+
+--------------
+LEAF
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 58889.49206308 for the price of 4.0E-7
+Selling 58889.49206308 for the price of 4.06e-07
+	There was a sell wall of  1915875.59255512  at a price of  4.5E-7
+Bought a total of  0.02348513 LTC worth of LEAF 
+
+--------------
+BTE
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00001497 plus the percentage increase ( 1.5195e-05 was > the maximum sell price of 1.497e-05
+Bought a total of  0 BTC worth of BTE 
+
+--------------
+FST
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  8.0E-7 plus the percentage increase ( 8.12e-07 was > the maximum sell price of 8.05e-07
+Bought a total of  0 BTC worth of FST 
+
+--------------
+MAX
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00004811 plus the percentage increase ( 4.8832e-05 was > the maximum sell price of 4.8277e-05
+Bought a total of  0 BTC worth of MAX 
+
+--------------
+SXC
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 5.84880052 for the price of 0.00021941
+Selling 5.84880052 for the price of 0.000222701
+	The order price of  0.00022661 plus the percentage increase ( 0.000230009 was > the maximum sell price of 0.000223356
+Bought a total of  0.00127944 LTC worth of SXC 
+
+--------------
+RZR
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 0.01816274 for the price of 0.06996189
+Selling 0.01816274 for the price of 0.071011318
+	The order price of  0.14900000 plus the percentage increase ( 0.151235 was > the maximum sell price of 0.08927317
+Bought a total of  0.00126689 LTC worth of RZR 
+
+--------------
+LGD
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 6.79936878 for the price of 0.00000849
+Buying 30.00000000 for the price of 0.00000850
+Selling 30.00000000 for the price of 8.627e-06
+	The order price of  0.00001057 plus the percentage increase ( 1.0729e-05 was > the maximum sell price of 8.782e-06
+Bought a total of  0.00031179 BTC worth of LGD 
+
+--------------
+NMC
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 0.18006270 for the price of 0.00286437
+Buying 0.0002849660733742000159005586475 for the price of 0.00286439
+Selling 0.0002849660733742000159005586475 for the price of 0.002907356
+Buying 2.93139063 for the price of 0.00286574
+Selling 2.93139063 for the price of 0.002908726
+	The order price of  0.00293204 plus the percentage increase ( 0.002976021 was > the maximum sell price of 0.002942282
+Bought a total of  0.00889044 BTC worth of NMC 
+
+--------------
+GME
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000909 plus the percentage increase ( 9.226e-06 was > the maximum sell price of 7.698e-06
+Bought a total of  0 LTC worth of GME 
+
+--------------
+KDC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000557 plus the percentage increase ( 5.654e-06 was > the maximum sell price of 5.353e-06
+Bought a total of  0 BTC worth of KDC 
+
+--------------
+Points
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00085728 plus the percentage increase ( 0.000870139 was > the maximum sell price of 0.000841615
+Bought a total of  0 BTC worth of Points 
+
+--------------
+DOGE
+--------------
+GRABBING CURRENT ORDER INFO
+Order cannot be less than 0.00000010
+	Total amount of funds exceeded max allowed
+Bought a total of  0 BTC worth of DOGE 
+
+--------------
+FLO
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 120.46650823 for the price of 0.00008405
+Selling 120.46650823 for the price of 8.5311e-05
+	The order price of  0.00009650 plus the percentage increase ( 9.7947e-05 was > the maximum sell price of 8.8835e-05
+Bought a total of  0.01009483 LTC worth of FLO 
+
+--------------
+CLOAK
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00059418 plus the percentage increase ( 0.000603093 was > the maximum sell price of 0.000591163
+Bought a total of  0 BTC worth of CLOAK 
+
+Selling 1.00398084 CRYPT for a price of 0.000314579 on the BTC market
+Selling 3.29319469 XPM for a price of 0.000691966 on the BTC market
+Selling 6.79936878 LGD for a price of 8.617e-06 on the BTC market
+Selling 0.18006270 NMC for a price of 0.002907336 on the BTC market
+----
+----
+Total amount of BTC spent on all orders:  0.25700064
+Total amount of BTC made from a 2% increase: 0.26085565
+Total amount of LTC spent on all orders:  1.29367538
+Total amount of LTC made from a 2% increase:  1.313080511
+----
+----
+switching
+BTC available 0.41652346
+LTC available 19.84844931
+--------------
+EZC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  9.8E-7 plus the percentage increase ( 9.95e-07 was > the maximum sell price of 9.54e-07
+Bought a total of  0 BTC worth of EZC 
+
+--------------
+CGB
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00030695 plus the percentage increase ( 0.000311554 was > the maximum sell price of 0.000309
+Bought a total of  0 BTC worth of CGB 
+
+--------------
+HVC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000143 plus the percentage increase ( 1.451e-06 was > the maximum sell price of 1.37e-06
+Bought a total of  0 BTC worth of HVC 
+
+--------------
+GLYPH
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00005750 plus the percentage increase ( 5.8362e-05 was > the maximum sell price of 4.6951e-05
+Bought a total of  0 BTC worth of GLYPH 
+
+--------------
+VRC
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 226.05194336 for the price of 0.00038001
+Selling 226.05194336 for the price of 0.00038571
+Order cannot be less than 0.00000010
+	Total amount of funds exceeded max allowed
+Bought a total of  0.08564429 BTC worth of VRC 
+
+--------------
+MYR
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000130 plus the percentage increase ( 1.319e-06 was > the maximum sell price of 1.298e-06
+Bought a total of  0 BTC worth of MYR 
+
+--------------
+IXC
+--------------
+GRABBING CURRENT ORDER INFO
+	There was a sell wall of  3885.05837444  at a price of  0.00006799
+Bought a total of  0 BTC worth of IXC 
+
+--------------
+MEC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00008662 plus the percentage increase ( 8.7919e-05 was > the maximum sell price of 8.6711e-05
+Bought a total of  0 BTC worth of MEC 
+
+--------------
+DOGE
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00003107 plus the percentage increase ( 3.1536e-05 was > the maximum sell price of 3.1228e-05
+Bought a total of  0 LTC worth of DOGE 
+
+--------------
+BTG
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00070009 plus the percentage increase ( 0.000710591 was > the maximum sell price of 0.00069772
+Bought a total of  0 BTC worth of BTG 
+
+--------------
+XJO
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000340 plus the percentage increase ( 3.451e-06 was > the maximum sell price of 2.838e-06
+Bought a total of  0 BTC worth of XJO 
+
+--------------
+CRYPT
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00031246 plus the percentage increase ( 0.000317147 was > the maximum sell price of 0.00031567
+Bought a total of  0 BTC worth of CRYPT 
+
+--------------
+DBL
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00129985 plus the percentage increase ( 0.001319348 was > the maximum sell price of 0.00129984
+Bought a total of  0 LTC worth of DBL 
+
+--------------
+SXC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000255 plus the percentage increase ( 2.588e-06 was > the maximum sell price of 2.56e-06
+Bought a total of  0 BTC worth of SXC 
+
+--------------
+NEC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000443 plus the percentage increase ( 4.496e-06 was > the maximum sell price of 4.486e-06
+Bought a total of  0 BTC worth of NEC 
+
+--------------
+CAP
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00005459 plus the percentage increase ( 5.5409e-05 was > the maximum sell price of 5.459e-05
+Bought a total of  0 BTC worth of CAP 
+
+--------------
+PPC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00239709 plus the percentage increase ( 0.002433046 was > the maximum sell price of 0.002396202
+Bought a total of  0 BTC worth of PPC 
+
+--------------
+LTB
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00009820 plus the percentage increase ( 9.9673e-05 was > the maximum sell price of 9.6009e-05
+Bought a total of  0 BTC worth of LTB 
+
+--------------
+SAT2
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00002055 plus the percentage increase ( 2.0858e-05 was > the maximum sell price of 2.055e-05
+Bought a total of  0 BTC worth of SAT2 
+
+--------------
+MN2
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.09062518 plus the percentage increase ( 0.091984558 was > the maximum sell price of 0.090767626
+Bought a total of  0 BTC worth of MN2 
+
+--------------
+XLB
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000771 plus the percentage increase ( 7.826e-06 was > the maximum sell price of 6.292e-06
+Bought a total of  0 BTC worth of XLB 
+
+--------------
+MN1
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00895933 plus the percentage increase ( 0.00909372 was > the maximum sell price of 0.00895903
+Bought a total of  0 BTC worth of MN1 
+
+--------------
+LTC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.01166492 plus the percentage increase ( 0.011839894 was > the maximum sell price of 0.01172889
+Bought a total of  0 BTC worth of LTC 
+
+--------------
+SRC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00007463 plus the percentage increase ( 7.5749e-05 was > the maximum sell price of 7.441e-05
+Bought a total of  0 BTC worth of SRC 
+
+--------------
+DMC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  3E-8 plus the percentage increase ( 3e-08 was > the maximum sell price of 2.6e-08
+Bought a total of  0 LTC worth of DMC 
+
+--------------
+XC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00197000 plus the percentage increase ( 0.00199955 was > the maximum sell price of 0.001965551
+Bought a total of  0 BTC worth of XC 
+
+--------------
+NAUT
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00034999 plus the percentage increase ( 0.00035524 was > the maximum sell price of 0.000354731
+Bought a total of  0 BTC worth of NAUT 
+
+--------------
+BUK
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00013321 plus the percentage increase ( 0.000135208 was > the maximum sell price of 0.00013321
+Bought a total of  0 BTC worth of BUK 
+
+--------------
+AMC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000134 plus the percentage increase ( 1.36e-06 was > the maximum sell price of 1.274e-06
+Bought a total of  0 BTC worth of AMC 
+
+--------------
+RYC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00008471 plus the percentage increase ( 8.5981e-05 was > the maximum sell price of 8.471e-05
+Bought a total of  0 LTC worth of RYC 
+
+--------------
+MINT
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  6E-8 plus the percentage increase ( 6.1e-08 was > the maximum sell price of 5.3e-08
+Bought a total of  0 BTC worth of MINT 
+
+--------------
+XPM
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 9.13012000 for the price of 0.00068131
+Selling 9.13012000 for the price of 0.00069153
+Buying 106.74945129 for the price of 0.00068132
+Selling 106.74945129 for the price of 0.00069154
+	The total bought is greater than or equal to the set maximum to buy
+		Total Bought: 115.87957129
+		Max To Buy: 106.5412262632499936201330022
+Bought a total of  0.07871413 BTC worth of XPM 
+
+--------------
+DVC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00001132 plus the percentage increase ( 1.149e-05 was > the maximum sell price of 1.1225e-05
+Bought a total of  0 LTC worth of DVC 
+
+--------------
+DMD
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00028974 plus the percentage increase ( 0.000294086 was > the maximum sell price of 0.000276008
+Bought a total of  0 BTC worth of DMD 
+
+--------------
+DEM
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000700 plus the percentage increase ( 7.105e-06 was > the maximum sell price of 7.1e-06
+Bought a total of  0 BTC worth of DEM 
+
+--------------
+HBN
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00009872 plus the percentage increase ( 0.000100201 was > the maximum sell price of 9.2742e-05
+Bought a total of  0 BTC worth of HBN 
+
+--------------
+WC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000116 plus the percentage increase ( 1.177e-06 was > the maximum sell price of 1.169e-06
+Bought a total of  0 BTC worth of WC 
+
+--------------
+IFC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000220 plus the percentage increase ( 2.233e-06 was > the maximum sell price of 2.2e-06
+Bought a total of  0 LTC worth of IFC 
+
+--------------
+XPM
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.05907298 plus the percentage increase ( 0.059959075 was > the maximum sell price of 0.05907298
+Bought a total of  0 LTC worth of XPM 
+
+--------------
+DGC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00199997 plus the percentage increase ( 0.00202997 was > the maximum sell price of 0.002003231
+Bought a total of  0 LTC worth of DGC 
+
+--------------
+LTCX
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 20.00000000 for the price of 0.00008008
+Selling 20.00000000 for the price of 8.1281e-05
+Buying 99.00000000 for the price of 0.00008835
+Selling 99.00000000 for the price of 8.9675e-05
+Buying 935.55398565 for the price of 0.00008837
+Selling 935.55398565 for the price of 8.9696e-05
+Order cannot be less than 0.00000010
+	Total amount of funds exceeded max allowed
+Bought a total of  0.09274410 BTC worth of LTCX 
+
+--------------
+CLOAK
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.05229068 plus the percentage increase ( 0.05307504 was > the maximum sell price of 0.052440967
+Bought a total of  0 LTC worth of CLOAK 
+
+--------------
+VTC
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 0.37857336 for the price of 0.00056822
+Selling 0.37857336 for the price of 0.000576743
+	The order price of  0.00056825 plus the percentage increase ( 0.000576774 was > the maximum sell price of 0.00057675
+Bought a total of  0.00021446 BTC worth of VTC 
+
+--------------
+UTC
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 298.34909028 for the price of 0.00002394
+Selling 298.34909028 for the price of 2.4299e-05
+Buying 460.00000000 for the price of 0.00002395
+Selling 460.00000000 for the price of 2.4309e-05
+Buying 800.00000000 for the price of 0.00002399
+Selling 800.00000000 for the price of 2.435e-05
+Buying 6.96545752 for the price of 0.00002401
+Buying 11.62330295 for the price of 0.00002402
+Selling 11.62330295 for the price of 2.438e-05
+Buying 1185.39085861 for the price of 0.00002404
+Selling 1185.39085861 for the price of 2.4401e-05
+	The total bought is greater than or equal to the set maximum to buy
+		Total Bought: 2762.32870936
+		Max To Buy: 2083.406792979749922898460292
+Bought a total of  0.06609582 BTC worth of UTC 
+
+--------------
+YAC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000499 plus the percentage increase ( 5.065e-06 was > the maximum sell price of 4.804e-06
+Bought a total of  0 BTC worth of YAC 
+
+--------------
+BQC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000476 plus the percentage increase ( 4.831e-06 was > the maximum sell price of 4.627e-06
+Bought a total of  0 BTC worth of BQC 
+
+--------------
+FRK
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.01706400 plus the percentage increase ( 0.01731996 was > the maximum sell price of 0.015324855
+Bought a total of  0 LTC worth of FRK 
+
+--------------
+XC
+--------------
+GRABBING CURRENT ORDER INFO
+	The total bought is greater than or equal to the set maximum to buy
+		Total Bought: 0
+		Max To Buy: -27.67291211750000004911454216
+Bought a total of  0 LTC worth of XC 
+
+--------------
+FST
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00007282 plus the percentage increase ( 7.3912e-05 was > the maximum sell price of 6.8094e-05
+Bought a total of  0 LTC worth of FST 
+
+--------------
+ZET
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00350344 plus the percentage increase ( 0.003555992 was > the maximum sell price of 0.003532408
+Bought a total of  0 LTC worth of ZET 
+
+--------------
+TEK
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00047155 plus the percentage increase ( 0.000478623 was > the maximum sell price of 0.00044278
+Bought a total of  0 BTC worth of TEK 
+
+--------------
+FTC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00650473 plus the percentage increase ( 0.006602301 was > the maximum sell price of 0.006504862
+Bought a total of  0 LTC worth of FTC 
+
+--------------
+MEOW
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  4.8E-7 plus the percentage increase ( 4.87e-07 was > the maximum sell price of 4.8e-07
+Bought a total of  0 LTC worth of MEOW 
+
+--------------
+SPT
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000315 plus the percentage increase ( 3.197e-06 was > the maximum sell price of 3.044e-06
+Bought a total of  0 BTC worth of SPT 
+
+--------------
+LEAF
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  4.1E-7 plus the percentage increase ( 4.16e-07 was > the maximum sell price of 4.1e-07
+Bought a total of  0 LTC worth of LEAF 
+
+--------------
+BTE
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00001497 plus the percentage increase ( 1.5195e-05 was > the maximum sell price of 1.497e-05
+Bought a total of  0 BTC worth of BTE 
+
+--------------
+FST
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  8.0E-7 plus the percentage increase ( 8.12e-07 was > the maximum sell price of 8.05e-07
+Bought a total of  0 BTC worth of FST 
+
+--------------
+MAX
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00004809 plus the percentage increase ( 4.8811e-05 was > the maximum sell price of 4.8277e-05
+Bought a total of  0 BTC worth of MAX 
+
+--------------
+SXC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00022270 plus the percentage increase ( 0.00022604 was > the maximum sell price of 0.0002227
+Bought a total of  0 LTC worth of SXC 
+
+--------------
+RZR
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.07101132 plus the percentage increase ( 0.07207649 was > the maximum sell price of 0.07101132
+Bought a total of  0 LTC worth of RZR 
+
+--------------
+LGD
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 30.00000000 for the price of 0.00000863
+	The order price of  0.00001057 plus the percentage increase ( 1.0729e-05 was > the maximum sell price of 8.95e-06
+Bought a total of  0.00025812 BTC worth of LGD 
+
+--------------
+NMC
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 3.58856233 for the price of 0.00286438
+Selling 3.58856233 for the price of 0.002907346
+	The order price of  0.00286549 plus the percentage increase ( 0.002908472 was > the maximum sell price of 0.00290736
+Bought a total of  0.01024817 BTC worth of NMC 
+
+--------------
+GME
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000909 plus the percentage increase ( 9.226e-06 was > the maximum sell price of 7.698e-06
+Bought a total of  0 LTC worth of GME 
+
+--------------
+PXC
+--------------
+GRABBING CURRENT ORDER INFO
+Buying 1361.40826867 for the price of 0.00000213
+Selling 1361.40826867 for the price of 2.162e-06
+Buying 484.09058810 for the price of 0.00000215
+Selling 484.09058810 for the price of 2.182e-06
+	The order price of  0.00000220 plus the percentage increase ( 2.233e-06 was > the maximum sell price of 2.228e-06
+Bought a total of  0.00392877 BTC worth of PXC 
+
+--------------
+KDC
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00000557 plus the percentage increase ( 5.654e-06 was > the maximum sell price of 5.353e-06
+Bought a total of  0 BTC worth of KDC 
+
+--------------
+Points
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00085728 plus the percentage increase ( 0.000870139 was > the maximum sell price of 0.000841615
+Bought a total of  0 BTC worth of Points 
+
+--------------
+FLO
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00008531 plus the percentage increase ( 8.659e-05 was > the maximum sell price of 8.531e-05
+Bought a total of  0 LTC worth of FLO 
+
+--------------
+CLOAK
+--------------
+GRABBING CURRENT ORDER INFO
+	The order price of  0.00059418 plus the percentage increase ( 0.000603093 was > the maximum sell price of 0.000591163
+Bought a total of  0 BTC worth of CLOAK 
+
+Selling 6.96545752 UTC for a price of 2.437e-05 on the BTC market
+----
+----
+Total amount of BTC spent on all orders:  0.33784786
+Total amount of BTC made from a 2% increase: 0.342915578
+Total amount of LTC spent on all orders:  0.0
+Total amount of LTC made from a 2% increase:  0.0
+----
+----
+[Cancelled]
